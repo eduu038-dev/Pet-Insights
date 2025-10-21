@@ -1,6 +1,8 @@
-streamlit
 pandas
+streamlit
+plotly
 plotly.express
 plotly.graph_objects
-sklearn
+numpy
+sklearn.linear_model 
 
